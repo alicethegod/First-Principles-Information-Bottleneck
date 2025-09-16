@@ -19,6 +19,8 @@ We propose that this dynamic can be understood by simulating the allocation and 
 
 Our "N-Sweep" experiment directly simulates this process and provides strong evidence for this new physical interpretation of the Information Bottleneck.
 
+<img width="6600" height="3000" alt="n_sweep_ib_summary_plot_multirun" src="https://github.com/user-attachments/assets/f3a4722d-5600-4adf-a30b-06f8d5573885" />
+
 *Figure 1: The IB trajectory revealed by the N-Sweep experiment, aggregated over 5 independent runs. The clear two-phase dynamic provides strong evidence for our hypothesis.*
 
 ## Repository Structure
@@ -116,6 +118,8 @@ This project is licensed under the MIT License.
 2.  **压缩阶段**: 对应于后续对这些资源的**削减**（`N`减少），以寻求一个最高效、最泛化的表示。这迫使系统“修剪”冗余的内部通路，导致认知成本（$H'*{tse}$）的上升和语义鲁棒性（$H'*{sie}$）的下降。
 
 我们的“N-Sweep”实验直接模拟了这一过程，并为这个全新的物理解释提供了强有力的证据。
+
+<img width="6600" height="3000" alt="n_sweep_ib_summary_plot_multirun" src="https://github.com/user-attachments/assets/4358bdb6-ddb3-4006-9c76-2a61b1ff666b" />
 
 *图1: 通过N-Sweep实验揭示的IB轨迹（5次独立实验的平均结果）。清晰的两阶段动力学为我们的假说提供了强有力的证据。*
 
